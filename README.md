@@ -26,7 +26,7 @@ installs all the libraries necessary to run the project code.
 
 ## Code
 
-All project code can be found in the `main.ipynb`.
+All project code can be found in `main.ipynb`.
 By simply running all cells, all relevant findings can be reproduced. Note, however, that this will take several hours.
 
 Alternatively, one can run cells seperately to produce the single plots.

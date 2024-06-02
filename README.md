@@ -31,6 +31,8 @@ By simply running all cells, all relevant findings can be reproduced. Note, howe
 
 Alternatively, one can run cells seperately to produce the single plots.
 
+Note that in any case the reproduced plots will vary slightly from the plots found in directory `report_images` or the report itself, as there were no random seeds set.
+
 All further info can be taken from the documentation directly inside the notebook.
 
 ## Authors
